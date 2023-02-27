@@ -1,0 +1,6 @@
+4
+ФИО	Телефон
+Petrov Vladislav Vyacheslavovich	+375295001829
+Sonya	+375293912340
+Vasya	+37544905351
+Zahar	+375295001829
